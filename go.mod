@@ -1,4 +1,4 @@
-module github.com/cydave/playground
+module github.com/cydave/playgroundx
 
 go 1.23.2
 
